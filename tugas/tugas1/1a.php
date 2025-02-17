@@ -1,11 +1,6 @@
-<html>
-    <body>
-
 <?php
-$satu = "Topi";
-$dua = "Bundar";
-echo "<h2>$satu saya $dua, $dua $satu saya.</h2>";
-?>
+$var1 = "Topi";
+$var2 = "Bundar";
 
-</body>
-</html>
+echo "<h2><i>\"$var1 saya $var2, $var2 $var1 saya.\"</i></h2>";
+?>
